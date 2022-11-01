@@ -1,0 +1,23 @@
+.sketch-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+  }
+  
+  h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .btn {
+    margin: 10px;
+  }
